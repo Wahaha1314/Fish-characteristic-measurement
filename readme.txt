@@ -1,3 +1,5 @@
+DOI: 10.5281/zenodo.3472318
+
 In the "Complete code" folder:
 "train_model.py" is the file that performs the training.
 "test_model.py" is the file that executes the test.
