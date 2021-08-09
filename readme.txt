@@ -1,4 +1,6 @@
-DOI: 10.5281/zenodo.3472318
+In order to better manage my project, the project has been transferred to https://github.com/YuChuang1205/Fish-characteristic-measurement-code. If you have any questions, please go to https://github.com/YuChuang1205/Fish-characteristic-measurement-code.
+
+
 
 In the "Complete code" folder:
 "train_model.py" is the file that performs the training.
